@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkmcguire
 - 👀 I’m interested in Crypto, Apple, Blockchain, Mobile Dev
 - 🌱 I’m currently learning Python, CSS, HTML 
-- 💞️ I’m looking to collaborate on a wide range of projects, especially in the crypto space
+- 💞️ I’m looking to collaborate on a wide range of projects. Especially in the crypto space
 - 📫 How to reach me https://twitter.com/crypto_deva
 
 <!---
